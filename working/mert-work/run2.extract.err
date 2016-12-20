@@ -1,0 +1,12 @@
+Binary write mode is NOT selected
+Scorer type: BLEU
+name: case value: true
+Loading reference from /home/dodaihoc_abvk/gnome/corpus/turn.true.vi
+.........................................................................................................................................................................................................................................................Data::m_score_type BLEU
+Data::Scorer type from Scorer: BLEU
+loading nbest from run2.best100.out.gz
+Loaded N-best lists : [Wall 49.7007 CPU 49.7] seconds.
+Binary write mode is NOT selected
+saving the array into run2.features.dat
+saving the array into run2.scores.dat
+Stopping... : [Wall 56.1503 CPU 56.152] seconds.
